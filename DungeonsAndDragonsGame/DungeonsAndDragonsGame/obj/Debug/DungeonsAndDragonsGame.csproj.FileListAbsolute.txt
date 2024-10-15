@@ -1,0 +1,7 @@
+C:\Users\j3nd4\source\repos\DungeonsAndDragonsGame\DungeonsAndDragonsGame\bin\Debug\DungeonsAndDragonsGame.exe.config
+C:\Users\j3nd4\source\repos\DungeonsAndDragonsGame\DungeonsAndDragonsGame\bin\Debug\DungeonsAndDragonsGame.exe
+C:\Users\j3nd4\source\repos\DungeonsAndDragonsGame\DungeonsAndDragonsGame\bin\Debug\DungeonsAndDragonsGame.pdb
+C:\Users\j3nd4\source\repos\DungeonsAndDragonsGame\DungeonsAndDragonsGame\obj\Debug\DungeonsAndDragonsGame.csproj.AssemblyReference.cache
+C:\Users\j3nd4\source\repos\DungeonsAndDragonsGame\DungeonsAndDragonsGame\obj\Debug\DungeonsAndDragonsGame.csproj.CoreCompileInputs.cache
+C:\Users\j3nd4\source\repos\DungeonsAndDragonsGame\DungeonsAndDragonsGame\obj\Debug\DungeonsAndDragonsGame.exe
+C:\Users\j3nd4\source\repos\DungeonsAndDragonsGame\DungeonsAndDragonsGame\obj\Debug\DungeonsAndDragonsGame.pdb
