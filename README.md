@@ -1,1 +1,1 @@
-neco tan nefunguje jacket nevedel Jak pls pls nejaky body
+neco tan nefunguje ja nevedel Jak pls pls nejaky body
